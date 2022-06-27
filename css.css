@@ -38,6 +38,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
 
 .interface .background {
 	background: url(https://i.imgur.com/3BcbdGt.jpeg) repeat !important;
+	background-size: cover;
 	animation: animate 10s linear infinite !important;
 }
 
